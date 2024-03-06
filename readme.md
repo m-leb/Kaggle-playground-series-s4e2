@@ -2,7 +2,7 @@
 ##### Season 4, Episode 2
 ### Multi-Class Prediction of Obesity Risk
 
-У рамках этого учебного соревнования, на основании анкетных данных пользователей, сгенерированных нейронной сетью обученной на оригинальном датасете [Obesity or CVD risk](https://www.kaggle.com/datasets/aravindpcoder/obesity-or-cvd-risk-classifyregressorcluster), необходимо было предсказать уровень ожирения. Оценка качества по accuracy.
+В рамках этого учебного соревнования, на основании анкетных данных пользователей, сгенерированных нейронной сетью обученной на оригинальном датасете [Obesity or CVD risk](https://www.kaggle.com/datasets/aravindpcoder/obesity-or-cvd-risk-classifyregressorcluster), необходимо было предсказать уровень ожирения. Оценка качества по accuracy.
 
 ## Моя финальная модель на Privat имела точность: **0.90597**.
 
